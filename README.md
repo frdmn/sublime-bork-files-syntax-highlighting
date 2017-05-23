@@ -1,6 +1,6 @@
 # sublime-borkfile-syntax-highlighting
 
-This plugin adds syntax highliting for `.borkfiles`
+This plugin adds syntax highliting for `.borkfiles`.
 
 ## Installation
 
