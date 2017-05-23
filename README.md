@@ -15,21 +15,21 @@ This plugin adds syntax highliting for `.borkfiles`.
 1. Fork it
 2. Create your feature branch:
 
-        ```shell
-        git checkout -b feature/my-new-feature
-        ```
+    ```shell
+    git checkout -b feature/my-new-feature
+    ```
 
 3. Commit your changes:
 
-        ```shell
-        git commit -am 'Add some feature'
-        ```
+    ```shell
+    git commit -am 'Add some feature'
+    ```
 
 4. Push to the branch:
 
-        ```shell
-        git push origin feature/my-new-feature
-        ```
+    ```shell
+    git push origin feature/my-new-feature
+    ```
 
 5. Submit a pull request
 
