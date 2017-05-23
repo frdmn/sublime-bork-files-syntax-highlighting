@@ -1,6 +1,6 @@
-# sublime-borkfile-syntax-highlighting
+# BorkfileSyntaxHighlighting
 
-This plugin adds syntax highliting for `.borkfiles`.
+This ST2/3 package adds syntax highlighting for `.borkfiles`.
 
 ## Installation
 
@@ -8,7 +8,7 @@ This plugin adds syntax highliting for `.borkfiles`.
 
 1. Press <kbd>CMD</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the Command Palette
 2. Search and select `Package Control: Install Package`
-3. Search for "`Borkfile Syntax Highlighting`"
+3. Search for "`BorkfileSyntaxHighlighting`"
 
 ## Contributing
 
